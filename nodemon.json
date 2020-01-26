@@ -1,5 +1,6 @@
 {
     "env":{
-        "process.env.MONGO_ATLAS_PW": "5E78annares"
+        "process.env.MONGO_ATLAS_PW": "5E78annares",
+        "process.env.JWT_KEY": "secret"
     }
 }
